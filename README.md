@@ -35,10 +35,10 @@
     - [Сортування бульбашкою](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/bubbleSort.js)
     - [Сортування вибором](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/selectionSort.js)
     - [Сортування вставкою](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/insertionSort.js)
-    - Сортування Шелла
-    - Сортування Злиттям
+    - [Сортування Шелла](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/shellSort.js)
+    - [Сортування Злиттям](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/mergeSort.js)
     - Випадкове сортування
-    - Сортування шейкером (Cocktail Shaker Sort)
+    - [Сортування шейкером (Cocktail Shaker Sort)](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/cocktailSort.js)
 ___
 #### Корисні матеріали :
 - [Michael Sambol](https://www.youtube.com/@MichaelSambol) та його репозиторій на [Github (Python)](https://github.com/msambol/dsa).
