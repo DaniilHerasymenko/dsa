@@ -5,9 +5,9 @@
 ## Навігація темами:
 - ### Big O
 - ### Структури даних :
-    - Стек
+    - [Стек](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/stack.js)
     - Список
-    - Черга
+    - [Черга](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/queue.js)
     - Хеш-таблиці
     - __Дерева :__ 
         - Бінарні дерева пошуку
