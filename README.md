@@ -6,7 +6,10 @@
 - ### Big O
 - ### Структури даних :
     - [Стек](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/stack.js)
-    - Список
+    - __Списки :__
+        - Однонаправлений зв'язний список
+        - Двохнаправлений зв'язний список
+        - Кільцевий зв'язний список
     - [Черга](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/queue.js)
     - Хеш-таблиці
     - __Дерева :__ 
