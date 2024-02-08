@@ -18,8 +18,8 @@
         - 2-3 дерева
         - B-дерева
 - ### Графи :
-    - Пошук в глибину (DFS)
-    - Пошук в ширину (BFS)
+    - [Пошук в глибину (DFS)](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/dfsSearch.js)
+    - [Пошук в ширину (BFS)](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/bfsSearch.js)
     - Алгоритм Форда-Фалкерсона
     - Алгоритм Прима
     - Алгоритм Крускала
