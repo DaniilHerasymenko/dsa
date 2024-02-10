@@ -7,7 +7,7 @@
 - ### Структури даних :
     - [Стек](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/stack.js)
     - __Списки :__
-        - Однонаправлений зв'язний список
+        - [Однонаправлений зв'язний список](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/singlyLinkedList.js)
         - Двохнаправлений зв'язний список
         - Кільцевий зв'язний список
     - [Черга](https://github.com/DaniilHerasymenko/algoritmsJS/blob/main/queue.js)
